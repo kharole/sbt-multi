@@ -1,7 +1,7 @@
-package com.alvinalexander.subprojecttests
+package com.demo.subprojecttests
 
-import com.alvinalexander.bar.Bar
-import com.alvinalexander.foo.Foo
+import com.demo.bar.Bar
+import com.demo.foo.Foo
 import org.scalatest.FunSuite
 
 class HelloTest extends FunSuite {
